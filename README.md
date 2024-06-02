@@ -1,1 +1,1 @@
-# AppByAPI
+"appbyapip" is a consolidated project containing two applications developed using API integration techniques. The Weather App fetches real-time weather data based on user input, providing details such as temperature, humidity, and weather conditions. The Movie App allows users to explore movie information, including ratings, genres, and posters, all retrieved through API calls. Both applications demonstrate proficiency in API integration and web development skills.
